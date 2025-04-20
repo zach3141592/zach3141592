@@ -8,7 +8,7 @@
 <h4 align="left">In my free time you can find me:</h5>
   <h5 align="left">	 - playing chess in nathan phillips square</h5>
   <h5 align="left">  - jamming with my jazz quartet</h5>
-  <h5 align="left">  - hooping in a pickup basketball game</h5>
+  <h5 align="left">  - hooping in pickup basketball games</h5>
  
 </p>
 <h3 align="left">MY STACK:</h3>
