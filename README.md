@@ -1,12 +1,12 @@
-### Hi 👋, I'm Zach Yu </br> Computer Nerd | Builder | Jazz Pianist | Professional Yapper
+### Hi 👋, I'm Zach Yu </br> Builder | Jazz Pianist | Professional Yapper
 ---
 
-I'm an ambitious full stack engineer who loves building.
+I'm a full stack engineer who loves building and meeting new people
 
 In my free time you can find me:
-- playing chess in nathan phillips square
-- jamming with my jazz quartet
-- hooping in pickup basketball games
+- playing chess 
+- jamming on the piano
+- hooping 
 
 </p>
 <h3 align="left">MY STACK:</h3>
