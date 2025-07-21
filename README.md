@@ -1,12 +1,16 @@
-### Hi 👋, I'm Zach Yu </br> Builder | Jazz Pianist | Professional Yapper
+### Hi 👋, I'm Zach Yu </br> Builder | Professional Yapper
 ---
 
-I'm a full stack engineer who loves building and meeting new people
+I'm a full stack engineer who loves building cool stuff and meeting cool people :)
 
-In my free time you can find me:
-- playing chess 
-- jamming on the piano
-- hooping 
+My most recent project:
+- app that allows people to practice their rizzabilities on AI personas
+- 1000+ users so far
+
+Other stuff I do:
+- chess 
+- jazz 
+- hooping (LeBron wishes i was his teammate)
 
 </p>
 <h3 align="left">MY STACK:</h3>
