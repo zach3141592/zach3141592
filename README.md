@@ -1,4 +1,4 @@
-### Hi 👋, I'm Zach Yu </br> Builder | Professional Yapper | I like startups.
+### Hi 👋, I'm Zach Yu </br> Builder | World Class Yapper | Startup Lover
 ---
 
 I'm a full stack engineer who loves building cool stuff and meeting cool people :)
