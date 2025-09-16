@@ -1,4 +1,4 @@
-### Hi 👋, I'm Zach Yu </br> I like startups and building stuff
+### I'm Zach Yu </br> I like startups and building stuff
 ---
 
 I'm a full stack engineer who loves building cool stuff and meeting cool people :)
