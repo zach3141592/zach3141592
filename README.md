@@ -1,6 +1,6 @@
 ### I'm Zach Yu </br> I like startups and building stuff
 ---
-![Views Badge](https://komarev.com/ghpvc/?username=zach3141592&label=Profile%20views&color=0e75b6&style=flat)
+![Views Badge](https://komarev.com/ghpvc/?username=zach3141592&label=Profile%20views&color=0e75b6&style=flat) [![Website Badge](https://img.shields.io/badge/website-zacharyyu.com-blue)](https://www.zacharyyu.com/)
 
 I'm a full stack engineer who loves building cool stuff and meeting cool people :)
 
