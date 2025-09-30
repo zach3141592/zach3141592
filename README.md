@@ -1,4 +1,4 @@
-### Zachary Yu 
+# Zachary Yu 
 ---
 I love startups, building cool stuff, and meeting cool people :)
 
