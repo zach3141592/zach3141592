@@ -1,6 +1,6 @@
 ### Zachary Yu 
 ---
-I'm a full stack engineer who loves startups, building cool stuff, and meeting cool people :)
+I love startups, building cool stuff, and meeting cool people :)
 
 Sites I Own: <br />
 - [zacharyyu.com](https://www.zacharyyu.com/) <br />
