@@ -2,7 +2,7 @@
 ---
 I love startups, building cool stuff, and meeting cool people :)
 
-Sites I Own: <br />
+Sites I Own:
 - [zacharyyu.com](https://www.zacharyyu.com/) <br />
 - [vibeornot.com](https://www.vibeornot.com/) <br />
 - [goonhacks.ca](https://www.goonhacks.ca/) <br />
