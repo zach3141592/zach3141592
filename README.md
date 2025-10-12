@@ -1,6 +1,6 @@
 # I'm Zachary Yu.
 
-UWaterloo CS student
+UWaterloo CS student. <br />
 I love startups, building cool stuff, and meeting cool people :)
 
 ## Sites I Own:
