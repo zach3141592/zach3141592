@@ -1,7 +1,7 @@
 # I'm Zachary Yu.
 
 -> UWaterloo CS student <br />
--> Building Sontic => automating human decision making <br />
+-> Building [sontic.ai](https://www.sontic.ai/) => automating human decision making <br />
 -> I love startups, building cool projects, and meeting cool people :)
 
 ## Sites I Own:
