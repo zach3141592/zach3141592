@@ -11,4 +11,6 @@
 - [sontic.ai](https://www.sontic.ai/)
 <br />
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zach3141592)](https://git.io/streak-stats)
+
 ![Views Badge](https://komarev.com/ghpvc/?username=zach3141592&label=Profile%20views&color=0e75b6&style=flat) [![Website Badge](https://img.shields.io/badge/website-zacharyyu.com-blue)](https://www.zacharyyu.com/)
