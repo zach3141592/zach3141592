@@ -3,7 +3,7 @@
 ![Views Badge](https://komarev.com/ghpvc/?username=zach3141592&label=Profile%20views&color=0e75b6&style=flat) [![Website Badge](https://img.shields.io/badge/website-zacharyyu.com-blue)](https://www.zacharyyu.com/)
 
 -> UWaterloo CS student <br />
--> Building [sontic.ai](https://www.sontic.ai/) = automating human decision making <br />
+-> Building [sontic.ai](https://www.sontic.ai/) = helping you trust AI agents with your money <br />
 -> I love startups, building cool projects, and meeting cool people :)
 
 ## Sites I Own:
