@@ -4,6 +4,7 @@
 
 -> UWaterloo CS student <br />
 -> Building [sontic.ai](https://www.sontic.ai/) = agentic payments you can trust <br />
+-> SWE at Mercor <br />
 -> I love startups, building cool projects, and meeting cool people :)
 
 ## Sites I Own:
