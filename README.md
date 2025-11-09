@@ -4,7 +4,7 @@
 
 -> UWaterloo CS student <br />
 -> Building [sontic.ai](https://www.sontic.ai/) = agentic payments you can trust <br />
--> SWE at [Mercor](https://mercor.com/) <br />
+-> SWE at [Mercor](https://mercor.com/) -> model evals<br />
 -> Making the world's weirdest hackathon [Go On Hacks](https://goonhacks.ca/) <br />
 -> I love startups, building cool projects, and meeting cool people :)
 
