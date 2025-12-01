@@ -4,7 +4,7 @@
 
 -> UWaterloo CS student <br />
 -> co-founder at [clice.ai](https://www.clice.ai/)<br />
--> SWE at [Mercor](https://mercor.com/) -> model evals<br />
+-> Prev. SWE at [Mercor](https://mercor.com/)<br />
 -> Making the world's weirdest hackathon [Go On Hacks](https://goonhacks.ca/) <br />
 -> I love startups, building cool projects, and meeting cool people :)
 
