@@ -8,7 +8,7 @@
 -> Made the world's weirdest hackathon [Go On Hacks](https://goonhacks.ca/) <br />
 -> I love startups, building cool projects, and meeting cool people :)
 
-## Sites I Own:
+## Sites I Made:
 - [zacharyyu.com](https://www.zacharyyu.com/)
 - [vibeornot.com](https://www.vibeornot.com/)
 - [goonhacks.ca](https://www.goonhacks.ca/)
