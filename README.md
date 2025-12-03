@@ -2,8 +2,8 @@
 
 ![Views Badge](https://komarev.com/ghpvc/?username=zach3141592&label=Profile%20views&color=0e75b6&style=flat) [![Website Badge](https://img.shields.io/badge/website-zacharyyu.com-blue)](https://www.zacharyyu.com/)
 
--> UWaterloo CS student <br />
 -> co-founder at [clice.ai](https://www.clice.ai/)<br />
+-> UWaterloo CS student <br />
 -> Prev. SWE at [Mercor](https://mercor.com/)<br />
 -> Made the world's weirdest hackathon [Go On Hacks](https://goonhacks.ca/) <br />
 -> I love startups, building cool projects, and meeting cool people :)
