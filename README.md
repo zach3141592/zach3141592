@@ -9,6 +9,7 @@
 -> I love startups, building cool projects, and meeting cool people :)
 
 ## Sites I Made:
+- [clice.ai](https://www.clice.ai/)
 - [zacharyyu.com](https://www.zacharyyu.com/)
 - [vibeornot.com](https://www.vibeornot.com/)
 - [goonhacks.ca](https://www.goonhacks.ca/)
