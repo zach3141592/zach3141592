@@ -6,7 +6,6 @@
 -> UWaterloo CS student <br />
 -> Prev. SWE at [Mercor](https://mercor.com/)<br />
 -> Made the world's weirdest hackathon [Go On Hacks](https://goonhacks.ca/) <br />
--> I love startups, building cool projects, and meeting cool people :)
 
 ## Websites I Made:
 - [clice.ai](https://www.clice.ai/)
