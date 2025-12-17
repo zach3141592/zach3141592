@@ -16,5 +16,3 @@
 - [sontic.ai](https://www.sontic.ai/)
 <br />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zach3141592)](https://git.io/streak-stats)
-
