@@ -10,4 +10,3 @@
 - [goonhacks.ca](https://www.goonhacks.ca/)
 - [sontic.ai](https://www.sontic.ai/)
 <br />
-
