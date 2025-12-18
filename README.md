@@ -1,6 +1,5 @@
 # I'm Zachary Yu.
-
-## Websites I Made:
+Here are some websites I've made:
 - [clice.ai](https://www.clice.ai/)
 - [tunesform.com](https://www.tunesform.com/)
 - [zacharyyu.com](https://www.zacharyyu.com/)
