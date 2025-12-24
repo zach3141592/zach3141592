@@ -1,5 +1,4 @@
 # I'm Zachary Yu.
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zach3141592)](https://git.io/streak-stats)
 
 Here are some websites I've made:
 - [clice.ai](https://www.clice.ai/)
