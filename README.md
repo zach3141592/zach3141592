@@ -1,5 +1,3 @@
-# I'm Zachary Yu.
-
 Here are some things I've made ->
 - [clice.ai](https://www.clice.ai/)
 - [tunesform.com](https://www.tunesform.com/)
